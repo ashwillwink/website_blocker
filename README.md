@@ -1,4 +1,4 @@
-# website_blocker
+# Website Blocker in Python
 Python program that blocks disruptive websites during the day
 
 This program blocks websites during certain working hours.
